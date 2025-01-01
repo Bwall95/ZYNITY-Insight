@@ -1,0 +1,4 @@
+# Ignore Docker build caches and logs
+*.log
+*.tmp
+node_modules/
